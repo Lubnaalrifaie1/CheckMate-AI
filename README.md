@@ -1,4 +1,4 @@
-# **Python-Checkers-AI**
+# **CheckMate AI**
 
 The creation of Checkers AI, an artificial intelligence system designed to excel in the game of checkers. By integrating machine learning algorithms, game theory principles, and strategic analysis, the project aims to develop an AI capable of adapting to and exploiting various game dynamics. 
 - The AI's foundation was built on a dataset of human and AI checker games.
